@@ -1,7 +1,5 @@
-header
 
-hello world!
-
-update text. END.
-
-Show GIT PUSH command.
+git branch -D <title> // delete <title> branch
+git merge <title> // combine current branch with <title>
+git checkout <title> // change current branch to selected one
+git checkout -b <title> // create branch with name <title>
