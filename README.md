@@ -18,7 +18,7 @@ Thanks for your attention.
 Следующая статья, которую стоит прочесть - [Командная работа без путаницы: разбираем стратегии ветвления в Гите](https://javarush.ru/groups/posts/2693-komandnaja-rabota-bez-putanicih-razbiraem-strategii-vetvlenija-v-gite)
 
 Спасибо за внимание.
-## Russian
+## Belarusian
 Праект, які быў створаны для рэалізацыі пакрокавага кіраўніцтва ў артыкуле [Пачатак працы з Git: падрабязны гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
 Тут адлюстраваны ўсе крокі, якія былі зробленыя ў артыкуле. 
 
