@@ -1,7 +1,9 @@
-
+git add // add chosen file 
+git commit -m // commit chenges
 git branch -D <title> // delete <title> branch
 git merge <title> // combine current branch with <title>
 git checkout <title> // change current branch to selected one
 git checkout -b <title> // create branch with name <title>
 git status // status)
 git push // push on github
+git rebase <title> // transfer all commits to the selected branch
